@@ -1,2 +1,4 @@
 # Price-Card-Web-Design
-3 Price cards with basic, standard and premium packages.
+  Simple static web page designed to display three price cards.
+  
+  ![](Screenshot.png)
