@@ -1,4 +1,4 @@
-# Price-Card-Web-Design
-  Simple static web page designed to display three price cards.
+# Price-Cards
+  Simple static web page to display three price cards.
   
-  ![](Screenshot.png)
+  ![price-cards-screenshot](https://github.com/maheshgawande/screenshots/blob/master/priceCards/priceCards.png)
